@@ -1,5 +1,7 @@
-for software like:
+# for software like:
 pasta OS
-TinkerOS (yes i know)
+# this might be tough...
+TinkerOS (yes i know) (AND IT WILL be open-source after the project stops.)
+# yeah
 uhh... whatever else is closed source in the SCA.
-(yeah they can use this if they stop wanting to use the pear-eLICENSE)
+> dude yeah they can use this if they stop wanting to use the pear-eLICENSE
