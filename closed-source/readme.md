@@ -1,4 +1,5 @@
-## rmemeber theese are templates
+## remeber theese are templates
+NOT full LICENCE's
 # for software like:
 pasta OS
 # this might be tough...
