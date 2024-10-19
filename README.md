@@ -1,4 +1,4 @@
 # SCA-OSSLs
 Scratch Computing Alliance Off-Scratch Software License's (SCA-OSSL's)
 > [!NOTE]
-> No forking unless you want to contribute (or archive, archiving is fine)
+> Remeber these are not the full License's just templates.
